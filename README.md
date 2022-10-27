@@ -1,2 +1,2 @@
 # Trial
-trial repo
+trial repo for tutorial
